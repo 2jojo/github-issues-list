@@ -1,14 +1,14 @@
 
-## issues ➡️ repo md files and more
+## issues ➡️ repo markdown files + website
 - [hugo-with-github-issues](https://github.com/marketplace/actions/hugo-with-github-issues) ✅ Tags ✅ Hugo
 - [microblog-action](https://github.com/herschel666/microblog-action)
 - [github-cms-docs/](https://paulkoanui.github.io/github-cms-docs/) ✅ Projects ✅ Jekyll
 - [issues-to-blog-post-action](https://github.com/marketplace/actions/issues-to-blog-post-action) ⚠️ Simple
-## repo md files ➡️ issues
+## repo markdown files ➡️ issues
 - [git-issues-blog/](https://github.com/Sep0lkit/git-issues-blog/blob/master/README.md)
-## issues ➡️ local md/html files
+## issues ➡️ local markdown/html files
 - [offline-issues](https://github.com/jlord/offline-issues)
-## issues ➡️ html (no repo md files)
+## issues ➡️ website (no repo markdown files)
 - [react-blog-github](https://github.com/saadpasta/react-blog-github) ✅ View Comments
 - [varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) ✅ View Comments
 - [jrainlau.github.io](https://github.com/jrainlau/jrainlau.github.io) ✅ Tags Filter ✅ View Comments ✅ Write Comments
