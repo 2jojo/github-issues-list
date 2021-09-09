@@ -21,9 +21,10 @@
 - issue titles ➡️ README [https://github.com/jwenjian/ghiblog](https://github.com/jwenjian/ghiblog)
 - Automatically generate change log from your tags, issues, labels [https://github.com/marketplace/actions/generate-changelog](https://github.com/marketplace/actions/generate-changelog)
 ## issues analytics & visualization 📊
+- contributor gantt chart [https://github.com/ericabouaf/gh-issues-gantt](https://github.com/ericabouaf/gh-issues-gantt)
+- contributor chart  (makes the labor of individuals more visible and rewardable) https://sourcecred.io/
 - a simple summary ➡️ README
     [https://github.com/marketplace/actions/summarize-issues](https://github.com/marketplace/actions/summarize-issues)
-- contributor gantt chart [https://github.com/ericabouaf/gh-issues-gantt](https://github.com/ericabouaf/gh-issues-gantt)
 - https://github-issue-vizualiser.netlify.com/
 - [https://deepsource.io/](https://deepsource.io/)
 ## issues automation 🤖️
