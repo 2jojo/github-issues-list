@@ -1,3 +1,5 @@
+## examples
+- https://github.com/open-source-ideas/open-source-ideas/issues
 
 ## issues ➡️ repo markdown files + website
 - [hugo-with-github-issues](https://github.com/marketplace/actions/hugo-with-github-issues) ✅ Tags ✅ Hugo
