@@ -1,5 +1,8 @@
-## examples
+## non-code use cases
 - https://github.com/open-source-ideas/open-source-ideas/issues
+
+## issues ➡️ message
+- [Sync GitHub Issues with WeChat Groups](https://github.com/kaiyuanshe/osschat)
 
 ## issues ➡️ repo markdown files + website
 - [hugo-with-github-issues](https://github.com/marketplace/actions/hugo-with-github-issues) ✅ Tags ✅ Hugo
