@@ -1,5 +1,6 @@
 ## non-code use cases
-- https://github.com/open-source-ideas/open-source-ideas/issues
+- collect ideas: https://github.com/open-source-ideas/open-source-ideas/issues
+- collaborate on writing (w/ projects): https://github.com/kaiyuanshe/open-source-articles/projects
 
 ## issues ➡️ message
 - [Sync GitHub Issues with WeChat Groups](https://github.com/kaiyuanshe/osschat)
