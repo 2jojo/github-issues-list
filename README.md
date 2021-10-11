@@ -1,5 +1,5 @@
 ## non-code use cases
-- collect ideas: https://github.com/open-source-ideas/open-source-ideas/issues
+- collect ideas: https://github.com/open-source-ideas/open-source-ideas/issues 这是一个很棒的使用GitHub issues的开源项目：不会编程或没有时间的人提一个开源点子（发表issues），然后感兴趣的人认领讨论并实现软件开发
 - collaborate on writing (w/ projects): 
     - https://github.com/kaiyuanshe/open-source-articles/projects
     - https://github.com/OCselected/ttoos/projects
