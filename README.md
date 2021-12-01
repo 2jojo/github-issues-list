@@ -4,6 +4,22 @@
     - https://github.com/kaiyuanshe/open-source-articles/projects
     - https://github.com/OCselected/ttoos/projects
 
+## sync with commercial platforms
+- Airtable
+- Basecamp
+- Coda
+- Confluence
+- Nuclino
+- Slite
+- Tettra
+- Monday
+- Taskade
+- Zoho Projects
+- Trello
+- Notion 
+    - [githubnotionsync.com/](https://githubnotionsync.com/) ⚠️ One Way: From GitHub Issues
+    - [notion-board](https://github.com/marketplace/actions/notion-board)
+
 ## issues ➡️ message
 - [Sync GitHub Issues with WeChat Groups](https://github.com/kaiyuanshe/osschat)
 
@@ -43,9 +59,7 @@
 - Add labels to issue based on projects it belongs to. [project-labeler](https://github.com/marketplace/actions/project-labeler)
 - labels Issues based on project card moves [/auto-card-labeler](https://github.com/marketplace/actions/auto-card-labeler)
 - super-powered labeler for Github Actions, with complex customisable conditions for PR, Issues and Projects [https://github.com/marketplace/actions/label-mastermind](https://github.com/marketplace/actions/label-mastermind)
-## issues ➡️ notion 
-- [githubnotionsync.com/](https://githubnotionsync.com/) ✅ in use ⚠️ one way
-- [notion-board](https://github.com/marketplace/actions/notion-board)
+
 ## issues app (reader) 
 - [jasperapp.io/](http://jasperapp.io/gitscout.com/)
 - [gitscout.com/](http://jasperapp.io/gitscout.com/)
