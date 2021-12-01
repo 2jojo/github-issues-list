@@ -10,11 +10,11 @@
 
 🈳️ Doesn't Sync Issue Body 🈶️ Sync Issue Body 
 
-- via Unito 👈👉🈶️; $10+ /mo (Airtable, Asana, Azure DevOps, Basecamp, Bitbucket, ClickUp, Favro, GitHub, GitLab, Google Contacts, Google Sheets, HubSpot, Intercom, Jira, Jira Service Management, MeisterTask, monday.com, Notion, Salesforce, Slack, Smartsheet, Teamwork, Trello, Wrike, Zendesk and Zoho Projects)
+- via Unito $ 👈👉🈶️ (Airtable, Asana, Azure DevOps, Basecamp, Bitbucket, ClickUp, Favro, GitHub, GitLab, Google Contacts, Google Sheets, HubSpot, Intercom, Jira, Jira Service Management, MeisterTask, monday.com, Notion, Salesforce, Slack, Smartsheet, Teamwork, Trello, Wrike, Zendesk and Zoho Projects)
 - via Exalate
 - Airtable: native, via Zapier, [third party](https://github.com/ray-project/issues-to-airtable)
 - Coda: 👉
-- Slite: 👈 Create GitHub issues from Slite + 👉 Preview GitHub issues
+- Slite $: 👈 Create GitHub issues from Slite; 👉 Preview GitHub issues
 - Monday 👈👉
 - Zoho Projects
 - Trello
