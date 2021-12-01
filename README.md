@@ -5,6 +5,11 @@
     - https://github.com/OCselected/ttoos/projects
 
 ## sync with commercial platforms
+
+👉 One Way Only: From GitHub Issues
+👈 One Way Only: To GitHub Issues
+🈳️ Doesn't Sync Issue Body 
+
 - Airtable
 - Basecamp
 - Coda
@@ -17,7 +22,7 @@
 - Zoho Projects
 - Trello
 - Notion 
-    - [githubnotionsync.com/](https://githubnotionsync.com/) ⚠️ One Way: From GitHub Issues
+    - [githubnotionsync.com/](https://githubnotionsync.com/) 
     - [notion-board](https://github.com/marketplace/actions/notion-board)
 
 ## issues ➡️ message
