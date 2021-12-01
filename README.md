@@ -6,24 +6,26 @@
 
 ## sync with commercial platforms
 
-👉 One Way Only: From GitHub Issues
-👈 One Way Only: To GitHub Issues
-🈳️ Doesn't Sync Issue Body 
+👉 From GitHub Issues Only 👈 To GitHub Issues Only
 
-- Airtable
-- Basecamp
-- Coda
-- Confluence
-- Nuclino
-- Slite
-- Tettra
-- Monday
-- Taskade
+🈳️ Doesn't Sync Issue Body 🈶️ Sync Issue Body 
+
+- via Unito 👈👉🈶️; $10+ /mo (Airtable, Asana, Azure DevOps, Basecamp, Bitbucket, ClickUp, Favro, GitHub, GitLab, Google Contacts, Google Sheets, HubSpot, Intercom, Jira, Jira Service Management, MeisterTask, monday.com, Notion, Salesforce, Slack, Smartsheet, Teamwork, Trello, Wrike, Zendesk and Zoho Projects)
+- via Exalate
+- Airtable: native, via Zapier, [third party](https://github.com/ray-project/issues-to-airtable)
+- Coda: 👉
+- Slite: 👈 Create GitHub issues from Slite + 👉 Preview GitHub issues
+- Monday 👈👉
 - Zoho Projects
 - Trello
 - Notion 
-    - [githubnotionsync.com/](https://githubnotionsync.com/) 
-    - [notion-board](https://github.com/marketplace/actions/notion-board)
+    - [githubnotionsync.com/](https://githubnotionsync.com/) 🈳️ 👉
+    - [notion-board](https://github.com/marketplace/actions/notion-board) 🈶️
+
+- ❌ Confluence (中文): Embed Only
+- ❌ Nuclino: Embed GitHub Gist only
+- ❌ Tettra: reference GitHub Issue only
+
 
 ## issues ➡️ message
 - [Sync GitHub Issues with WeChat Groups](https://github.com/kaiyuanshe/osschat)
